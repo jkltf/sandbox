@@ -1,0 +1,2 @@
+db ansible_ssh_port=40002 ansible_ssh_host=192.168.59.103
+web ansible_ssh_port=40001 ansible_ssh_host=192.168.59.103

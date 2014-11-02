@@ -1,0 +1,3 @@
+Defaults:ansiblenode !requiretty
+ansiblenode ALL=(ALL) NOPASSWD:ALL
+
